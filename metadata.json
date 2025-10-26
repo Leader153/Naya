@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Naya AI Assistant good",
+  "description": "An interactive web application featuring Naya, an AI-powered virtual assistant. Engage in low-latency conversations, and generate stunning videos from text prompts or images using Google's Veo technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
